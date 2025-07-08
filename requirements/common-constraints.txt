@@ -235,7 +235,7 @@ kiwisolver==1.4.8
     # via matplotlib
 litellm==1.72.1
     # via -r requirements/requirements.in
-llama-index-core==0.12.26
+llama-index-core==0.12.41
     # via
     #   -r requirements/requirements-help.in
     #   llama-index-embeddings-huggingface
