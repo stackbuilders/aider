@@ -330,7 +330,7 @@ pillow==11.2.1
     #   matplotlib
     #   sentence-transformers
     #   streamlit
-pip==25.1.1
+pip==25.2
     # via pip-tools
 pip-tools==7.4.1
     # via -r requirements/requirements-dev.in
