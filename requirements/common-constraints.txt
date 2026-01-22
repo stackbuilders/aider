@@ -602,7 +602,7 @@ watchfiles==1.0.5
     # via -r requirements/requirements.in
 wcwidth==0.2.13
     # via prompt-toolkit
-wheel==0.45.1
+wheel==0.46.2
     # via pip-tools
 wrapt==1.17.2
     # via
